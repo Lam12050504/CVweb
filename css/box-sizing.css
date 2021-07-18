@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box ;
+}
+div {
+    width:150px;
+    height:150px;
+}
+.div-1 {
+    background-color: pink;
+}
+.div-2 {
+    background-color: lightseagreen;
+}
